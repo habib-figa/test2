@@ -1,2 +1,2 @@
 # test2
-test1 repository for demonstration
+test1 repository for git demonstration
